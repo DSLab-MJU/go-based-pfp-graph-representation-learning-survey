@@ -96,8 +96,168 @@ Initially, articles were selected based on their titles and abstracts. Subsequen
 
 ### 2. Protein Structure
 
+> Experimental protein structures
 
+**Structure-based protein function prediction using graph convolutional networks**
+*Gligorijević, V., Renfrew, P. D., Kosciolek, T., Leman, J. K., Berenberg, D., Vatanen, T., ... & Bonneau, R.*  
+[Nature communications, 2021] 
+[[Paper](https://www.nature.com/articles/s41467-021-23303-9)]
+
+**PersGNN: applying topological data analysis and geometric deep learning to structure-based protein function prediction**  
+*Swenson, N., Krishnapriyan, A. S., Buluc, A., Morozov, D., & Yelick, K.*  
+[[Paper](https://arxiv.org/abs/2010.16027)]
+
+> Predicted protein structures
+
+**Accurate protein function prediction via graph attention networks with predicted structure information**  
+*Lai, B., & Xu, J.*  
+[Bioinformatics, 2022]
+[[Paper](https://academic.oup.com/bib/article-abstract/23/1/bbab502/6457163)]
+
+**Struct2GO: protein function prediction based on graph pooling algorithm and AlphaFold2 structure information**  
+*Jiao, P., Wang, B., Wang, X., Liu, B., Wang, Y., & Li, J.*  
+[Bioinformatics, 2023]
+[[Paper](https://academic.oup.com/bioinformatics/article-abstract/39/10/btad637/7320010)]
+
+**Combining protein sequences and structures with transformers and equivariant graph neural networks to predict protein function**  
+*Boadu, F., Cao, H., & Cheng, J.*  
+[Bioinformatics, 2023]
+[[Paper](https://academic.oup.com/bioinformatics/article/39/Supplement_1/i318/7210446)]
+
+**GPSFun: geometry-aware protein sequence function predictions with language models**  
+*Yuan, Q., Tian, C., Song, Y., Ou, P., Zhu, M., Zhao, H., & Yang, Y.*  
+[Nucleic Acids Research, 2024]
+[[Paper](https://academic.oup.com/nar/advance-article-abstract/doi/10.1093/nar/gkae381/7670905)]
+
+> Combined protein structures
+
+**Hierarchical graph transformer with contrastive learning for protein function prediction**  
+*Gu, Z., Luo, X., Chen, J., Deng, M., & Lai, L.*  
+[Bioinformatics, 2023]
+[[Paper](https://academic.oup.com/bioinformatics/article-abstract/39/7/btad410/7208864)]
 
 ### 3. GO graph
 
+> General GO term embedding
+
+**DeepGOA: Predicting Gene Ontology Annotations of Proteins via Graph Convolutional Network**  
+*Zhou, G., Wang, J., Zhang, X., & Yu, G.*  
+[IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2019]
+[[Paper](https://ieeexplore.ieee.org/abstract/document/8983075)]
+
+**Predicting functions of maize proteins using graph convolutional network**  
+*Zhou, G., Wang, J., Zhang, X., Guo, M., & Yu, G.*  
+[Bioinformatics, 2020]
+[[Paper](https://link.springer.com/article/10.1186/s12859-020-03745-6)]
+
+**TALE: Transformer-based protein function Annotation with joint sequence--Label Embedding**  
+*Cao, Y., & Shen, Y.*  
+[Bioinformatics, 2021]
+[[Paper](https://academic.oup.com/bioinformatics/article-abstract/37/18/2825/6182677)]
+
+**An effective GCN-based hierarchical multi-label classification for protein function prediction**  
+*Choi, K., Lee, Y., Kim, C., & Yoon, M.*  
+[[Paper](https://arxiv.org/abs/2112.02810)]
+
+**GCL-GO: A novel sequence-based hierarchy-aware method for protein function prediction**  
+*Choi, K., Lee, Y., & Kim, C.*  
+[IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2022]
+[[Paper](https://academic.oup.com/nargab/article-abstract/4/1/lqac004/6520105)]
+
+**PANDA: protein function prediction using domain architecture and affinity propagation**  
+*Wang, Z., Zhao, C., Wang, Y., Sun, Z., & Wang, N.*  
+[Scientific reports, 2018]
+[[Paper](https://www.nature.com/articles/s41598-018-21849-1)]
+
+**PANDA2: protein function prediction using graph neural networks**  
+*Zhao, C., Liu, T., & Wang, Z.*  
+[NAR Genomics and Bioinformatics, 2022]
+[[Paper](https://academic.oup.com/nargab/article/3/1/lqab004/6540737)]
+
+**PFresGO: an attention mechanism-based deep-learning approach for protein annotation by integrating gene ontology inter-relationships**  
+*Pan, T., Li, C., Bi, Y., Wang, Z., Gasser, R. B., Purcell, A. W., ... & Song, J.*  
+[Bioinformatics, 2023]
+[[Paper](https://academic.oup.com/bioinformatics/article-abstract/39/3/btad094/7043095)]
+
+**Protein function prediction with functional and topological knowledge of gene ontology**  
+*Zhao, Y., Yang, Z., Hong, Y., Yang, Y., Wang, L., Zhang, Y., ... & Wang, J.*  
+[IEEE Transactions on NanoBioscience, 2023] 
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10129977)]
+
+**DeepGATGO: A Hierarchical Pretraining-Based Graph-Attention Model for Automatic Protein Function Prediction**  
+*Li, Z., Jiang, C., & Li, J.*  
+[22nd International Workshop on Data Mining in Bioinformatics.]
+[[Paper](https://arxiv.org/abs/2307.13004)]
+
+**Partial order relation--based gene ontology embedding improves protein function prediction**  
+*Li, W., Wang, B., Dai, J., Kou, Y., Chen, X., Pan, Y., ... & Xu, Z. Z.*  
+[Briefings in Bioinformatics, 2024]
+[[Paper](https://academic.oup.com/bib/article/25/2/bbae077/7620910)]
+
 ### 4. Integrated graphs
+
+> PPI and other networks
+
+**Graph2GO: a multi-modal attributed network embedding method for inferring protein functions**  
+*Fan, K., Guan, Y., & Zhang, Y.*  
+[GigaScience, 2020]
+[[Paper](https://academic.oup.com/gigascience/article/9/8/giaa081/5885490)]
+
+**A deep learning framework for predicting protein functions with co-occurrence of GO terms**  
+*Li, M., Shi, W., Zhang, F., Zeng, M., & Li, Y.*  
+[IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2022]
+[[Paper](https://ieeexplore.ieee.org/abstract/document/9764369)]
+
+**Protein function prediction using graph neural network with multi-type biological knowledge**  
+*Shuai, Y., Wang, W., Li, Y., Zeng, M., & Li, M.*  
+[IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2023]
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10385760)]
+
+> Heteregenerous networks
+
+**PSPGO: Cross-species heterogeneous network propagation for protein function prediction**  
+*Wu, K., Wang, L., Liu, B., Liu, Y., Wang, Y., & Li, J.*  
+[IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2022]
+[[Paper](https://ieeexplore.ieee.org/abstract/document/9921345)]
+
+**HNetGO: protein function prediction via heterogeneous network transformer**  
+*Zhang, X., Guo, H., Zhang, F., Wang, X., Wu, K., Qiu, S., ... & Li, J.*  
+[Briefings in Bioinformatics, 2023]
+[[Paper](https://academic.oup.com/bib/article-abstract/24/6/bbab556/7323467)]
+
+**OntoProtein: Protein Pretraining With Gene Ontology Embedding**  
+*Zhang, N., Bi, Z., Liang, X., Cheng, S., Hong, H., Deng, S., ... & Chen, H.*  
+[ICLR, 2022]
+[[Paper](https://arxiv.org/abs/2201.11147)]
+
+**Integrating Heterogeneous Biological Networks and Ontologies for Improved Protein Function Prediction with Graph Neural Networks**  
+*Tran, N. C., & Gao, J. X.*  
+[IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2023]
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10385281)]
+
+**Predicting Protein Functions Based on Heterogeneous Graph Attention Technique**  
+*Zhao, Y., Yang, Z., Wang, L., Zhang, Y., Lin, H., & Wang, J.*  
+[IEEE Journal of Biomedical and Health Informatics, 2024]
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10423114)]
+
+> Protein structure and GO graph
+
+**TALE-cmap: Protein function prediction based on a TALE-based architecture and the structure information from contact map**  
+*Qiu, X. Y., Wu, H., & Shao, J.*  
+[Computers in Biology and Medicine, 2022]
+[[Paper](https://www.sciencedirect.com/science/article/pii/S0010482522006734)]
+
+**SLPFA: Protein Structure-Label Embedding Attention Network for Protein Function Annotation**  
+*Zhang, Q., Liu, J., Yang, F., Yang, Z., & Feng, J.*  
+[IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2023]
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10385633)]
+
+**GNNGO3D: Protein function prediction based on 3d structure and functional hierarchy learning**  
+*Zhang, L., Jiang, Y., & Yang, Y.*  
+[IEEE Transactions on Knowledge and Data Engineering, 2023]
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10313062)]
+
+**POLAT: Protein function prediction based on soft mask graph network and residue-Label ATtention**  
+*Liu, Y., Zhang, Y., Chen, Z., & Peng, J.*  
+[Computational Biology and Chemistry, 2024]
+[[Paper](https://www.sciencedirect.com/science/article/pii/S1476927124000525)]
