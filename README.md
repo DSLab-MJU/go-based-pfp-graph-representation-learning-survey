@@ -39,7 +39,7 @@ Initially, articles were selected based on their titles and abstracts. Subsequen
 
 **MGEGFP: a multi-view graph embedding method for gene function prediction based on adaptive estimation with GCN**  
 *Li, W., Zhang, H., Li, M., Han, M., & Yin, Y.*  
-[Bioinformatics, 2022]
+[Briefings in Bioinformatics, 2022]
 [[Paper](https://academic.oup.com/bib/article/23/5/bbac333/6659744)]
 
 **DeepGraphGO: graph neural network for large-scale, multispecies protein function prediction**  
@@ -111,7 +111,7 @@ Initially, articles were selected based on their titles and abstracts. Subsequen
 
 **Accurate protein function prediction via graph attention networks with predicted structure information**  
 *Lai, B., & Xu, J.*  
-[Bioinformatics, 2022]
+[Briefings in Bioinformatics, 2022]
 [[Paper](https://academic.oup.com/bib/article-abstract/23/1/bbab502/6457163)]
 
 **Struct2GO: protein function prediction based on graph pooling algorithm and AlphaFold2 structure information**  
@@ -147,7 +147,7 @@ Initially, articles were selected based on their titles and abstracts. Subsequen
 
 **Predicting functions of maize proteins using graph convolutional network**  
 *Zhou, G., Wang, J., Zhang, X., Guo, M., & Yu, G.*  
-[Bioinformatics, 2020]
+[BMC bioinformatics, 2020]
 [[Paper](https://link.springer.com/article/10.1186/s12859-020-03745-6)]
 
 **TALE: Transformer-based protein function Annotation with joint sequence--Label Embedding**  
