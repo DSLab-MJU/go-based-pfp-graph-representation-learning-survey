@@ -59,7 +59,7 @@ Initially, articles were selected based on their titles and abstracts. Subsequen
 [Proteomics, 2019]
 [[Paper](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/pdf/10.1002/pmic.201900019)]
 
-**SDN2GO: an integrated deep learning model for protein function prediction**
+**SDN2GO: an integrated deep learning model for protein function prediction**  
 *Cai, Y., Wang, J., & Deng, L.*  
 [Frontiers in Bioengineering and Biotechnology, 2020]
 [[Paper](https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2020.00391/full)]
@@ -98,7 +98,7 @@ Initially, articles were selected based on their titles and abstracts. Subsequen
 
 > Experimental protein structures
 
-**Structure-based protein function prediction using graph convolutional networks**
+**Structure-based protein function prediction using graph convolutional networks**  
 *Gligorijević, V., Renfrew, P. D., Kosciolek, T., Leman, J. K., Berenberg, D., Vatanen, T., ... & Bonneau, R.*  
 [Nature communications, 2021] 
 [[Paper](https://www.nature.com/articles/s41467-021-23303-9)]
