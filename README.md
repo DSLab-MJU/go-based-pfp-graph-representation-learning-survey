@@ -1,5 +1,7 @@
 # An experimental analysis of graph representation learning for Gene Ontology based protein function prediction
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13828158.svg)](https://doi.org/10.5281/zenodo.13828158)
+
 > This is a collection of articles about graph representation learning for Gene Ontology based protein function prediction.
 
 - Our paper: [An experimental analysis of graph representation learning for Gene Ontology based protein function prediction](#)
